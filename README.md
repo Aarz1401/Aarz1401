@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on projects for experience .
 - 📫 Reach me through a mail - aac10066@nyu.edu or aadilchasmawala@gmail.com
 
-![Aarz1401 github stats](https://github-readme-stats.vercel.app/api?username=Aarz1401&show_icons=true&hide_border=true)
+[![Aadil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarz1401)](https://github.com/anuraghazra/github-readme-stats)
 
