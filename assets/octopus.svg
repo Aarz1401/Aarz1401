@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" role="img" aria-labelledby="title">
+<title id="title">Mr. Octopus — a waving illustration inspired by my robotics project</title>
+<style>.wave {transform-origin:143px 95px;animation:wave 6s ease-in-out infinite}
+.eyes {transform-origin:115px 76px;animation:blink 7s infinite}
+@keyframes wave {0%,50%,100%{transform:rotate(0deg)} 60%,80%{transform:rotate(-14deg)}70%,90%{transform:rotate(8deg)}}
+@keyframes blink {0%,44%,48%,100%{transform:scaleY(1)}46%{transform:scaleY(.12)}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="900" height="160" rx="14" fill="#0b1d2c"/>
+
+<g fill="none" stroke="#5eead4" stroke-width="13" stroke-linecap="round">
+<path d="M87 100q-28 33-49 7M105 109q-8 30-27 24M125 109q8 30 26 24M142 101q24 30 40 5"/>
+<path class="wave" d="M143 95q48 3 42-40"/>
+</g>
+<path d="M73 94V76a42 42 0 0 1 84 0v18q-42 36-84 0" fill="#5eead4"/>
+<g class="eyes" fill="#0b1d2c"><ellipse cx="100" cy="76" rx="5" ry="7"/><ellipse cx="131" cy="76" rx="5" ry="7"/></g>
+<path d="M106 94q10 9 20 0" fill="none" stroke="#0b1d2c" stroke-width="3" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="240" y="55" fill="#5eead4" font-size="12" letter-spacing="3">MEET MR. OCTOPUS</text>
+<text x="240" y="88" fill="#e6f2f6" font-size="24">A little hardware. A lot of personality.</text>
+<text x="240" y="119" fill="#a4becb" font-size="15">Touch + light → expressive interaction</text></g>
+
+</svg>

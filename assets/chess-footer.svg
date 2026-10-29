@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-labelledby="title">
+<title id="title">A chess knight follows an L-shaped route on a miniature board</title>
+<style>.knight{animation:tour 16s ease-in-out infinite}
+@keyframes tour{0%,10%,100%{transform:translate(640px,122px)}20%{transform:translate(640px,58px)}25%,35%{transform:translate(672px,58px)}40%{transform:translate(672px,26px)}45%,55%{transform:translate(736px,26px)}65%{transform:translate(736px,90px)}70%,80%{transform:translate(704px,90px)}85%{transform:translate(704px,122px)}95%{transform:translate(640px,122px)}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="900" height="180" rx="14" fill="#0b1d2c"/>
+
+<g font-family="Arial,Helvetica,sans-serif"><text x="30" y="61" fill="#5eead4" font-size="12" letter-spacing="3">ALWAYS EXPLORING</text>
+<text x="30" y="96" fill="#e6f2f6" font-size="25">The next move is an interesting problem.</text>
+<text x="30" y="127" fill="#a4becb" font-size="14">AI · Mathematics · Robotics · Chess</text></g>
+<rect x="640" y="26" width="32" height="32" fill="#173343"/><rect x="672" y="26" width="32" height="32" fill="#275361"/><rect x="704" y="26" width="32" height="32" fill="#173343"/><rect x="736" y="26" width="32" height="32" fill="#275361"/><rect x="640" y="58" width="32" height="32" fill="#275361"/><rect x="672" y="58" width="32" height="32" fill="#173343"/><rect x="704" y="58" width="32" height="32" fill="#275361"/><rect x="736" y="58" width="32" height="32" fill="#173343"/><rect x="640" y="90" width="32" height="32" fill="#173343"/><rect x="672" y="90" width="32" height="32" fill="#275361"/><rect x="704" y="90" width="32" height="32" fill="#173343"/><rect x="736" y="90" width="32" height="32" fill="#275361"/><rect x="640" y="122" width="32" height="32" fill="#275361"/><rect x="672" y="122" width="32" height="32" fill="#173343"/><rect x="704" y="122" width="32" height="32" fill="#275361"/><rect x="736" y="122" width="32" height="32" fill="#173343"/>
+<path d="M656 138V74H688V42H752V106H720V138H656" fill="none" stroke="#5eead4" stroke-opacity=".4" stroke-dasharray="3 5"/>
+<g class="knight" transform="translate(640 122)"><path d="M6 27h21v-4H7Zm3-7h16c-1-7-5-8-7-10l5 1 2-6-6-3-2-3-3 4-7 7 2 5 6-2-6 7Z" fill="#a4fff0" stroke="#0b1d2c" stroke-width="1"/><circle cx="18" cy="6" r="1.2" fill="#0b1d2c"/></g>
+
+</svg>

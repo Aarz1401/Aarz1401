@@ -34,6 +34,8 @@ Building reproducible AI tools and automations for handover to non-technical sta
 
 ## 02 / Research
 
+<p align="center"><a href="https://github.com/Aarz1401/Aarz_GreenTranspilation"><img src="assets/transpilation.svg" width="100%" alt="Illustrative Python-to-C++ translation: translate, verify correctness, measure energy"></a></p>
+
 **Green AI · NYU Abu Dhabi**<br>
 *Research collaborator with Prof. João Paulo Fernandes · Dec 2024–May 2026*
 
@@ -46,6 +48,8 @@ I also explore representation learning through **[Game Atlas](https://github.com
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## 03 / Robotics
+
+<p align="center"><a href="https://github.com/Aarz1401/Mr-Octopus---A-Robot-with-emotions"><img src="assets/octopus.svg" width="100%" alt="Mr. Octopus waves hello — an illustration inspired by my touch- and light-responsive robot"></a></p>
 
 **REACH Lab · NYU Abu Dhabi**<br>
 *Student Research Assistant, Robotics · Sep 2026–present*
@@ -89,6 +93,13 @@ Working on the LLM and system-integration track of a robotics project with KINES
 </tr>
 </table>
 
+<details>
+<summary><b>Watch Game Atlas in action — select games, compare representations, replay moves</b></summary>
+<p>A recording of the actual Game Atlas interface, running locally from the public repository.</p>
+<img src="assets/game-atlas-demo.gif" width="100%" alt="Game Atlas demonstration: switching representations, selecting games on the map, and stepping through chess moves">
+<p><a href="assets/game-atlas-still.png">View a still image</a> · <a href="https://github.com/Aarz1401/Chess-ML-Project">Explore the source and run it locally</a></p>
+</details>
+
 <img src="assets/divider.svg" width="100%" alt="">
 
 ## 05 / Technical stack
@@ -107,3 +118,5 @@ Working on the LLM and system-integration track of a robotics project with KINES
 **Let's build something useful.** I'm interested in AI engineering, sustainable software, and robotics collaborations.<br>
 [Get in touch](mailto:aac10066@nyu.edu) · [Explore my portfolio](https://aarz1401.github.io/Aadil-website/) · [Browse all repositories](https://github.com/Aarz1401?tab=repositories)
 
+
+<p align="center"><img src="assets/chess-footer.svg" width="100%" alt="Always exploring — AI, mathematics, robotics, and chess. A knight traces an L-shaped route."></p>

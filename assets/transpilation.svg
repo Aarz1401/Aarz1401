@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-labelledby="title">
+<title id="title">Illustrative Python to C++ translation; no performance result is implied</title>
+<style>.packet{animation:travel 6s ease-in-out infinite}.code{animation:reveal 6s ease-in-out infinite}
+@keyframes travel{0%,15%{transform:translateX(0);opacity:0}25%{opacity:1}65%{transform:translateX(128px);opacity:1}75%,100%{transform:translateX(128px);opacity:0}}
+@keyframes reveal{0%,20%{opacity:.5}65%,100%{opacity:1}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect width="900" height="210" rx="14" fill="#0b1d2c"/>
+
+<g font-family="Arial,Helvetica,sans-serif"><text x="28" y="30" fill="#8cabbc" font-size="11" letter-spacing="2">GREEN TRANSPILATION / ILLUSTRATIVE EXAMPLE</text>
+<text x="30" y="65" fill="#5eead4" font-size="16">Python</text><text x="523" y="65" fill="#5eead4" font-size="16">C++</text>
+<text x="28" y="188" fill="#a4becb" font-size="13">Translate → verify correctness → measure energy</text></g>
+<g font-family="monospace" font-size="16" fill="#e6f2f6"><text x="30" y="104">def square(x):</text><text x="30" y="134">    return x * x</text>
+<g class="code"><text x="523" y="104">int square(int x) {</text><text x="523" y="130">  return x * x;</text><text x="523" y="154">}</text></g></g>
+<path d="M345 111H474m-10-9 10 9-10 9" fill="none" stroke="#2b5969" stroke-width="2"/>
+<circle class="packet" cx="345" cy="111" r="5" fill="#5eead4"/>
+
+</svg>
