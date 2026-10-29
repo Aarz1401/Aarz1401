@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="108" viewBox="0 0 560 108" role="img" aria-label="ENERGY / MEASUREMENT">
+<rect width="560" height="108" rx="12" fill="#0b1d2c"/>
+<path d="M118 18V90M134 83H534" stroke="#244555" fill="none"/>
+<g stroke="#5eead4" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M45 76V43M65 76V28M85 76V52"/></g>
+<text x="140" y="52" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="1.2" fill="#c5e8e7">ENERGY / MEASUREMENT</text>
+<path d="M140 70h38" stroke="#5eead4" stroke-width="3"/>
+<circle cx="528" cy="25" r="3" fill="#5eead4"/>
+</svg>
